@@ -1,4 +1,4 @@
-# Lambda-Cron
+# Evidently Thick Client Lambda
 <!--BEGIN STABILITY BANNER-->
 ---
 
